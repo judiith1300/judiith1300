@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence & Data Science
 - 🌱 I’m currently doing a Bachelor's Degree on Mathematical Engineering on Data Science
 - 💞️ I’m looking to collaborate on AI projects :)
-- 📫 You can erach me via email: judithcamacho1300@gmail.com
+- 📫 You can reach me via email: judithcamacho1300@gmail.com
 
 <!---
 judiith1300/judiith1300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
